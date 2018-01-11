@@ -13,6 +13,7 @@ namespace CSDNBlog.Controllers
 
         public ActionResult Index()
         {
+            string str = "aaaaa";
             return View();
         }
 
