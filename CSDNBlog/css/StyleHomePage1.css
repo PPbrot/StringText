@@ -42,17 +42,18 @@
 .h3_menu {
     float: left;
     width: 280px;
-    margin-top: 10px;
+     height:55px;
 }
 
 .h3_menu div{
     width: 200px;
 }
 .h3_menu div img{
-    float:left;
-    margin-left:120px;
-    width: 20px;
-    position:fixed;
+    float: left;
+    margin-left: 145px;
+    margin-top: 8px;
+    width: 25px;
+    position: fixed;
 }
 .circular {
     float:left;
@@ -67,8 +68,7 @@
     padding: 12px;
     background-color: #fafafa;
     outline:none;
-    background-image:url("..\image\Logimg\souBtn.jpg");
-    padding-left:10px;
+    position: fixed;
 }
 
 .h2_menu {
